@@ -10,4 +10,3 @@ Job portal is an application which connects employer and job seekers where emplo
 •	Company representatives can view a list of job applicants and can contact them, initiative an interview, or perform some other action related to their post.
 •	Registered users should be able to search for jobs and filter the results based on location, required skills, salary, experience level, etc
 Users can upload their existing resumes. If they do not have one, they should be able to fill out a form and have a resume built for them.
-
